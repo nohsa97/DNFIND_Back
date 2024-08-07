@@ -1,0 +1,4 @@
+# Node.js 환경에서 제외할 파일 및 폴더
+node_modules/
+.env
+.DS_Store
